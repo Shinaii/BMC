@@ -1,0 +1,17 @@
+{
+	"id": "BMC", 
+	"name": "BMC", 
+	"author": ["Shinaii"], 
+	"description": "Balatro Mod Collection | A Collection of Mods for Balatro",
+	"prefix": "bmc",
+	"main_file": "core.lua",
+	"priority": 0,
+	"badge_colour": "9966ff",
+	"badge_text_colour": "ede9f7",
+	"display_name": "BMC",
+	"version": "1.0.0",
+	"dependencies": [],
+	"conflicts": [], 
+	"provides": [],
+	"dump_loc": false
+}
