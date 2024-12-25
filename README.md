@@ -22,6 +22,7 @@ BMC (Balatro Mod Collection) is a comprehensive collection of mods combined into
 ### Requirements
 
 - [Steamodded](https://github.com/Steamopollys/Steamodded)
+- [Lovely](https://github.com/ethangreen-dev/lovely-injector)
 
 ### Install Steps
 
