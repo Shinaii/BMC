@@ -1,5 +1,6 @@
 # 🐍 BMC - Balatro Mod Collection
 
+![BMC Logo](https://github.com/Shinaii/BMC/blob/main/Assets/logo.png?raw=true)
 
 ## 📜 Description
 
