@@ -1,5 +1,3 @@
-![BMC Logo](https://github.com/Shinaii/BMC/blob/main/Assets/logo.png?raw=true)
-
 ## 📜 Description
 
 BMC (Balatro Mod Collection) is a comprehensive collection of mods combined into a single, easy-to-install package. This collection mod allows you to enable or disable specific mods in-game in Balatro, providing a flexible and customizable experience.
